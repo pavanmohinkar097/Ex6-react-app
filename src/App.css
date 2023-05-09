@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    
+    color: #210062;
+}
+
+.container {
+  background:#D25380;
+  height: 100vh;
+}
